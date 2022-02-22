@@ -2,6 +2,8 @@
 
 Highly customizable Dot Globe component for React. Inspired by GitHub's globe, uses Babylon.js under the hood.
 
+[Live preview here](https://ahuseyn.github.io/react-dot-globe).
+
 ## Install
 
 1. Install the library
